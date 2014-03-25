@@ -1,0 +1,28 @@
+Stat 585 - Project Proposal
+========================================================
+Justin Zwolski
+========================================================
+tennis
+Topic:<br>
+The topic of my project is on tennis, specifically looking at the year end top 100 rankings 
+on the ATP World Tour for the last 10 years.
+
+Questions of Interest:<br>
+1. Has there been a change in the style of play?<br>
+2. Has there been a change in physical attributes of the players?<br>
+3. Has there been a change in the age of the players?<br>
+
+Motivation:<br>
+Tennis is my favorite sport, and I enjoy following professional tennis as well.  I have noticed that there
+are quite a few very tall players playing professional tennis nowadays.  With height comes great power,
+especially on serves.  I am curious to see the trend in the height of tennis players and if a change in the
+overall style of play is emerging.  Also, it seems that older players can still perform at a high level.  I am
+curious to see the trend in age of tennis players over the last 10 years.
+
+Data:<br>
+There is a lot of tennis data available on the web.  I will be using data from www.atpworldtour.com for my
+project.  The ATP site shows the updated rankings each week, and stores all the past rankings.  I plan on using
+the year end top 100 rankings from the last 10 years.  The key variable will be the name of the player and the
+date of the rankings.  The ATP site has in depth information for each player on tour.  I will look at player
+information for all the players, such as height and age.    From there, I will extract the player information,
+such as height, creating new columns of data.
