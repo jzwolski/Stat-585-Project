@@ -14,15 +14,15 @@ Questions of Interest:<br>
 
 Motivation:<br>
 Tennis is my favorite sport, and I enjoy following professional tennis as well.  I have noticed that there
-are quite a few very tall players playing professional tennis nowadays.  With height comes great power,
-especially on serves.  I am curious to see the trend in the height of tennis players and if a change in the
-overall style of play is emerging.  Also, it seems that older players can still perform at a high level.  I am
-curious to see the trend in age of tennis players over the last 10 years.
+are quite a few very tall players playing professional tennis nowadays, and are doing quite well.  With height
+comes great power, especially on serves.  I am curious to see the trend in the height of tennis players and if
+a change in the overall style of play is emerging.  Also, it seems that older players can still perform at a
+high level.  I am curious to see the trend in age of tennis players over the last 10 years.
 
 Data:<br>
 There is a lot of tennis data available on the web.  I will be using data from www.atpworldtour.com for my
 project.  The ATP site shows the updated rankings each week, and stores all the past rankings.  I plan on using
 the year end top 100 rankings from the last 10 years.  The key variable will be the name of the player and the
 date of the rankings.  The ATP site has in depth information for each player on tour.  I will look at player
-information for all the players, such as height and age.    From there, I will extract the player information,
-such as height, creating new columns of data.
+information for all the players, such as height and age, and include those variables in the table.  I will then
+create graphics to look at trends over the last 10 years.
